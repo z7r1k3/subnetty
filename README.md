@@ -1,3 +1,3 @@
-# subnet-calc
+# subnetty
 
 Simple tool to make subnet calculations.
